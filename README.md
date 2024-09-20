@@ -1,4 +1,4 @@
-![javascript-plain](https://github.com/user-attachments/assets/66cf962f-a2a6-427a-b559-bb243d1a1f1d)<h1 align="center">Olá 👋, meu nome é Caio David :)</h1>
+<h1 align="center">Olá 👋, meu nome é Caio David :)</h1>
 <h3 align="center">Eu sou estudante de Informática no IFCE, atualmente estou no p3 </h3>
 
 - 🌱 Estou atualmente aprendendo **Java, JS**!
