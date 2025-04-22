@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Caio David :)</h1>
-<h3 align="center">Eu sou estudante de Informática no IFCE, atualmente estou no p3 </h3>
+<h3 align="center">Eu sou estudante de Informática no IFCE, atualmente estou no p5 </h3>
 
 - 🌱 *Estou atualmente aprendendo:* **Java, JS, HTML e CSS!**
 
@@ -9,7 +9,7 @@
 
 - ⚽ **Sou torcedor do Ceará SC ⚫⚪!**
 
-- ❌ **Não tenho rede social!**
+- ❌ **Não tenho redes sociais**
 
 
 </p>
