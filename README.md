@@ -5,7 +5,7 @@
 
 - 📫 *Como me contatar:* **carvalho.urano05@aluno.ifce.edu.br**
 
-- ⚡ *Fatos sobre mim:* **Eu gosto de futebol, de evoluir e da minha família!**
+- ⚡ *Fatos sobre mim:* **Eu gosto de futebol, de animes e da minha família!**
 
 - ⚽ **Sou torcedor do Ceará SC ⚫⚪!**
 
